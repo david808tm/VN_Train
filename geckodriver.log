@@ -1,0 +1,378 @@
+1512928631218	geckodriver	INFO	geckodriver 0.18.0
+1512928631224	geckodriver	INFO	Listening on 127.0.0.1:49537
+1512928634361	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512928638143	Marionette	INFO	Listening on port 49546
+1512928639678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512928639908	Marionette	DEBUG	loaded listener.js
+2017-12-10 09:57:20.205 plugin-container[4944:850463] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512928773643	geckodriver	INFO	geckodriver 0.18.0
+1512928773649	geckodriver	INFO	Listening on 127.0.0.1:49968
+1512928776769	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512928781402	Marionette	INFO	Listening on port 49976
+1512928782064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512928782757	Marionette	DEBUG	loaded listener.js
+1512928782801	geckodriver	INFO	geckodriver 0.18.0
+1512928782804	geckodriver	INFO	Listening on 127.0.0.1:49999
+2017-12-10 09:59:43.005 plugin-container[4969:854032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512928785914	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512928789690	Marionette	INFO	Listening on port 50016
+1512928791539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512928791867	Marionette	DEBUG	loaded listener.js
+1512928792001	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-10 09:59:52.245 plugin-container[4973:854459] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512928794385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512928794385	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512928795716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1512928795720	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1512928987588	geckodriver	INFO	geckodriver 0.18.0
+1512928987593	geckodriver	INFO	Listening on 127.0.0.1:50884
+1512928990716	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512928994862	Marionette	INFO	Listening on port 50893
+1512928995376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512928995959	Marionette	DEBUG	loaded listener.js
+1512928996007	geckodriver	INFO	geckodriver 0.18.0
+1512928996011	geckodriver	INFO	Listening on 127.0.0.1:50918
+2017-12-10 10:03:16.206 plugin-container[5024:861249] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512928999130	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512929004056	Marionette	INFO	Listening on port 50933
+1512929005014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512929005354	Marionette	DEBUG	loaded listener.js
+1512929005413	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-10 10:03:25.573 plugin-container[5028:861611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512929005814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512929005814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512929007323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1512929007326	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1512929010270	Marionette	INFO	Ceased listening
+1512929020125	Marionette	INFO	Ceased listening
+1512929023273	Marionette	INFO	Ceased listening
+1512929026130	Marionette	INFO	Ceased listening
+1512929029750	Marionette	INFO	Ceased listening
+1512929031121	geckodriver	INFO	geckodriver 0.18.0
+1512929031126	geckodriver	INFO	Listening on 127.0.0.1:51208
+1512929034229	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512929037712	Marionette	INFO	Listening on port 51217
+1512929037838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512929038448	Marionette	DEBUG	loaded listener.js
+1512929038478	geckodriver	INFO	geckodriver 0.18.0
+1512929038481	geckodriver	INFO	Listening on 127.0.0.1:51238
+2017-12-10 10:03:58.663 plugin-container[5045:862962] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512929188327	geckodriver	INFO	geckodriver 0.18.0
+1512929188331	geckodriver	INFO	Listening on 127.0.0.1:51466
+1512929191431	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512929194975	Marionette	INFO	Listening on port 51481
+1512929195184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512929195498	Marionette	DEBUG	loaded listener.js
+1512929195536	geckodriver	INFO	geckodriver 0.18.0
+1512929195539	geckodriver	INFO	Listening on 127.0.0.1:51670
+2017-12-10 10:06:35.617 plugin-container[5084:867768] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512929198634	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512929202059	Marionette	INFO	Listening on port 51695
+1512929202170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512929202635	Marionette	DEBUG	loaded listener.js
+1512929202731	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-10 10:06:42.878 plugin-container[5087:868136] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512929203113	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512929203113	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512929204222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1512929204226	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1512929205274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512929205288	geckodriver	INFO	geckodriver 0.18.0
+1512929205293	geckodriver	INFO	Listening on 127.0.0.1:51746
+1512929208390	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512929211870	Marionette	INFO	Listening on port 51755
+1512929212006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512929212550	Marionette	DEBUG	loaded listener.js
+2017-12-10 10:06:52.911 plugin-container[5091:868560] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512929295891	Marionette	INFO	Ceased listening
+1512929302081	Marionette	INFO	Ceased listening
+1512929305275	Marionette	INFO	Ceased listening
+1512929393296	geckodriver	INFO	geckodriver 0.18.0
+1512929393301	geckodriver	INFO	Listening on 127.0.0.1:52052
+1512929396397	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512929399666	Marionette	INFO	Listening on port 52061
+1512929399892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512929400375	Marionette	DEBUG	loaded listener.js
+1512929400502	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-10 10:10:00.678 plugin-container[5121:873974] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512929401015	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512929401015	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512929403371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1512929403375	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1512929404622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512929576798	geckodriver	INFO	geckodriver 0.18.0
+1512929576802	geckodriver	INFO	Listening on 127.0.0.1:52876
+1512929579900	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512929583563	Marionette	INFO	Listening on port 52883
+2017-12-10 10:13:04.578 plugin-container[5150:878685] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512929584580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512929584719	Marionette	DEBUG	loaded listener.js
+1512929584761	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512929585179	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512929585179	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512929587360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1512929587363	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1512929588536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512930067019	Marionette	INFO	Ceased listening
+1512930069632	Marionette	INFO	Ceased listening
+1512930072967	geckodriver	INFO	geckodriver 0.18.0
+1512930072971	geckodriver	INFO	Listening on 127.0.0.1:53636
+1512930076069	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512930079101	Marionette	INFO	Listening on port 53644
+1512930079527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512930079971	Marionette	DEBUG	loaded listener.js
+1512930080024	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-10 10:21:20.214 plugin-container[5252:891275] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512930080520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512930080520	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512930082007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1512930082011	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1512930083957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512930084595	Marionette	INFO	New connections will no longer be accepted
+1513216043772	geckodriver	INFO	geckodriver 0.18.0
+1513216043778	geckodriver	INFO	Listening on 127.0.0.1:51043
+1513216044006	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513216046080	Marionette	INFO	Listening on port 51048
+2017-12-13 17:47:26.323 plugin-container[5232:774726] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513216046492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513216046522	Marionette	DEBUG	loaded listener.js
+1513216046552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513216046790	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513216046791	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513216048082	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513216048086	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513216049021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513216049553	Marionette	INFO	New connections will no longer be accepted
+1513217626258	geckodriver	INFO	geckodriver 0.18.0
+1513217626262	geckodriver	INFO	Listening on 127.0.0.1:53414
+1513217626444	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513217628050	Marionette	INFO	Listening on port 53418
+2017-12-13 18:13:48.293 plugin-container[5619:803576] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513217628898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513217628927	Marionette	DEBUG	loaded listener.js
+1513217628952	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513217630732	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513217630732	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513217631988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513217631994	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513217632906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513217633948	Marionette	INFO	New connections will no longer be accepted
+1513444959359	geckodriver	INFO	geckodriver 0.18.0
+1513444959365	geckodriver	INFO	Listening on 127.0.0.1:52855
+1513444962550	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513444965346	Marionette	INFO	Listening on port 52862
+2017-12-16 09:22:45.907 plugin-container[22084:2992003] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x993b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513444966099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513444966169	Marionette	DEBUG	loaded listener.js
+1513444966260	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513444966612	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513444966612	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513444968028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513444968032	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513444969084	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513445207048	geckodriver	INFO	geckodriver 0.18.0
+1513445207052	geckodriver	INFO	Listening on 127.0.0.1:53174
+1513445210140	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513445212936	Marionette	INFO	Listening on port 53181
+1513445213672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513445213725	Marionette	DEBUG	loaded listener.js
+1513445213771	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-16 09:26:54.008 plugin-container[22144:2999381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513445214164	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513445214164	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513445214697	Marionette	INFO	Ceased listening
+1513445215713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513445215717	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513445216629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1513446897551	geckodriver	INFO	geckodriver 0.18.0
+1513446897555	geckodriver	INFO	Listening on 127.0.0.1:54296
+1513446900643	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513446903694	Marionette	INFO	Listening on port 54304
+1513446904091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513446904541	Marionette	DEBUG	loaded listener.js
+1513446904620	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-16 09:55:04.845 plugin-container[22608:3047971] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513446905465	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513446905465	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513446906786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513446906790	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513446908124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513447150436	geckodriver	INFO	geckodriver 0.18.0
+1513447150441	geckodriver	INFO	Listening on 127.0.0.1:54599
+1513447153535	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513447157657	Marionette	INFO	Listening on port 54608
+1513447158202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513447158281	Marionette	DEBUG	loaded listener.js
+1513447158404	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-16 09:59:18.480 plugin-container[22701:3055148] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513447158791	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513447158791	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513447161712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513447161716	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513447162700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513447163299	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/logout"
+1513447163335	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/login"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1513447774601	Marionette	INFO	Ceased listening
+1513447782055	Marionette	INFO	Ceased listening
+1513969587576	geckodriver	INFO	geckodriver 0.18.0
+1513969587582	geckodriver	INFO	Listening on 127.0.0.1:60739
+1513969589262	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513969593578	Marionette	INFO	Listening on port 60747
+1513969593891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513969594705	Marionette	DEBUG	loaded listener.js
+1513969595320	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-22 11:06:35.381 plugin-container[2599:591813] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513969595684	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513969595684	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513969597402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513969597406	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513969598385	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/"
+1513969598991	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/logout"
+1513969599042	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/login"
+1513969611328	geckodriver	INFO	geckodriver 0.18.0
+1513969611334	geckodriver	INFO	Listening on 127.0.0.1:60907
+1513969612533	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513969616901	Marionette	INFO	Listening on port 60932
+1513969617056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513969617894	Marionette	DEBUG	loaded listener.js
+1513969617977	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-22 11:06:58.264 plugin-container[2607:592682] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513969618497	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513969618498	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513969621393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513969621398	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513969623134	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513969624607	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/logout"
+1513969624996	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/login"
+1513969631502	geckodriver	INFO	geckodriver 0.18.0
+1513969631506	geckodriver	INFO	Listening on 127.0.0.1:61087
+1513969632676	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513969636745	Marionette	INFO	Listening on port 61098
+1513969636995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513969638017	Marionette	DEBUG	loaded listener.js
+1513969638172	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-12-22 11:07:18.379 plugin-container[2617:593180] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513969639010	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513969639011	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513969641162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1513969641166	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1513969642270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1513973403062	Marionette	INFO	Ceased listening
+1513973405453	Marionette	INFO	Ceased listening
+1513973407442	Marionette	INFO	Ceased listening
+1515082485282	geckodriver	INFO	geckodriver 0.18.0
+1515082485289	geckodriver	INFO	Listening on 127.0.0.1:61372
+1515082489821	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515082494033	Marionette	INFO	Listening on port 61388
+1515082494934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515082495426	Marionette	DEBUG	loaded listener.js
+2018-01-04 08:14:55.671 plugin-container[83804:5764275] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515082495903	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515082497815	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515082497815	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515082499228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515082499232	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515082500351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515082709988	Marionette	INFO	Ceased listening
+1515083009346	geckodriver	INFO	geckodriver 0.18.0
+1515083009352	geckodriver	INFO	Listening on 127.0.0.1:62515
+1515083010668	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515083014832	Marionette	INFO	Listening on port 62542
+1515083015067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515083015249	Marionette	DEBUG	loaded listener.js
+2018-01-04 08:23:35.461 plugin-container[83950:5776618] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515083015495	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515083015852	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515083015852	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515083017067	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515083017070	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515083018006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515083222199	geckodriver	INFO	geckodriver 0.18.0
+1515083222205	geckodriver	INFO	Listening on 127.0.0.1:63122
+1515083223453	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515083227300	Marionette	INFO	Listening on port 63144
+1515083227385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515083227805	Marionette	DEBUG	loaded listener.js
+1515083227877	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-04 08:27:08.176 plugin-container[84014:5780146] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515083228373	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515083228373	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515083229610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515083229614	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515083230647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515083231228	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/logout"
+1515083231270	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/login"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1515088857038	Marionette	INFO	Ceased listening
+1515088859709	Marionette	INFO	Ceased listening
